@@ -39,4 +39,4 @@ Short answers for the below questions suffice. If you want to alter your plan fo
       - Puzzle (Find fragments of code to unlock the door)
 
 #### What problems, if any, have you encountered?
-Due to time constraints, I'll be submitting a demo of the game for the final project (Scene 1: 5 objectives + Demo End Screen)
+Due to time constraints, I'll be submitting a demo of the game for the final project (Scene 1: 3-5 objectives + Demo End Screen)
