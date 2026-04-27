@@ -1,4 +1,4 @@
-
+--Script for each entity
 local model = script.Parent
 local part = model.HitBox
 local sound = Instance.new("Sound")
